@@ -28,7 +28,7 @@ selected and passed to the completion call along with its closest matching text 
 # Disadvantages
 There are certain limitations to consider with this approach:
 
-<b>Spanning Blocks and Documents:<\b> In certain cases, the answer to a question might span across two text blocks or even multiple documents. 
+<b>Spanning Blocks and Documents:</b> In certain cases, the answer to a question might span across two text blocks or even multiple documents. 
 Unfortunately, the current method may not effectively handle such scenarios. Fine-tuning the model could potentially address this issue 
 by improving its ability to comprehend and connect information across different sections.
 
