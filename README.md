@@ -32,7 +32,7 @@ There are certain limitations to consider with this approach:
 Unfortunately, the current method may not effectively handle such scenarios. Fine-tuning the model could potentially address this issue 
 by improving its ability to comprehend and connect information across different sections.
 
-Token Limitations: The method is constrained by token limitations, which restrict the amount of text that can be processed in a single interaction.
+<b>Token Limitations:</b> The method is constrained by token limitations, which restrict the amount of text that can be processed in a single interaction.
 Consequently, lengthy passages may be truncated, leading to incomplete or inaccurate responses.
 
 It's important to acknowledge these drawbacks and explore potential solutions, such as fine-tuning, to enhance the system's performance 
