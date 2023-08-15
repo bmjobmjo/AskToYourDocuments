@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAITest", "OpenAITest\OpenAITest.csproj", "{9E53D2D1-A26A-4D21-B1E8-447BD3444987}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1E47FD99-24E9-460C-96E3-A7E9919E6A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E53D2D1-A26A-4D21-B1E8-447BD3444987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E53D2D1-A26A-4D21-B1E8-447BD3444987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E53D2D1-A26A-4D21-B1E8-447BD3444987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E53D2D1-A26A-4D21-B1E8-447BD3444987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E47FD99-24E9-460C-96E3-A7E9919E6A10}.Debug|Any CPU.ActiveCfg = Debug
+		{1E47FD99-24E9-460C-96E3-A7E9919E6A10}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD37B493-F734-414A-87F6-D3B577220600}
+	EndGlobalSection
+EndGlobal
